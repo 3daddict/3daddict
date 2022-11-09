@@ -2,14 +2,6 @@
 I'm Mike, a Full-Stack developer. I have experience with JavaScript, NodeJS, Shopify and SvelteKit. I've been working on web projects for over 5 years, and I enjoy building intuitive, delightful interfaces for users. I have worked with React/Redux and I am interested to also work with Typscript. I have strong expertise in CSS (Sass, Tailwind CSS and others). I am always looking for new challenges and opportunities to expand my skills.
 
 I have a passion for writing clean, well-tested reusable code. I love contributing to open source code when possible and the opportunities to collaborate with other developers. Having previous startup experience I have always been a jack-of-all-trades.
-<p>
-<a href="https://twitter.com/rvncmd">
-  <img align="left" alt="Mike | Twitter" width="22px" src="https://raw.githubusercontent.com/3daddict/3daddict/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/msalvati/">
-  <img align="left" alt="Mike LinkedIN" width="22px" src="https://raw.githubusercontent.com/3daddict/3daddict/master/assets/linkedin.svg" />
-</a>
-</p>
 
 <h3>I like to build with</h3>
 <p>
