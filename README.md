@@ -31,13 +31,13 @@ I have a passion for writing clean, well-tested reusable code. I love contributi
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Shopify Theme with Webpack and Shopify CLI</b></a></td>
+      <td><a href="https://github.com/3daddict/webpack-shopify-cli"><b>Shopify Theme with Webpack and Shopify CLI</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/3daddict/webpack-shopify-cli?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/3daddict/webpack-shopify-cli?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/3daddict/webpack-shopify-cli?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/3daddict/webpack-shopify-cli?style=flat-square&labelColor=343b41"/></td>
     </tr>
-          <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Shopify Themekit with Webpack and TailwindCSS</b></a></td>
+          <td><a href="https://github.com/3daddict/themekit-webpack"><b>Shopify Themekit with Webpack and TailwindCSS</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/3daddict/themekit-webpack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/3daddict/themekit-webpack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/3daddict/themekit-webpack?style=flat-square&labelColor=343b41"/></td>
