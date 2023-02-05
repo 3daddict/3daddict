@@ -1,7 +1,9 @@
 ### Hey there 👋
-I'm Mike, a Full-Stack developer. I have experience with JavaScript, NodeJS, Shopify and SvelteKit. I've been working on web projects for over 5 years, and I enjoy building intuitive, delightful interfaces for users. I have worked with React/Redux and I am interested to also work with Typscript. I have strong expertise in CSS (Sass, Tailwind CSS and others). I am always looking for new challenges and opportunities to expand my skills.
+As a Full-Stack developer with over 5 years of experience in web development, I bring a strong foundation in JavaScript frameworks, HTML, and CSS, I have honed my skills in Shopify development over the past 4 years. I have experience with React, Next.js, and Hydrogen, as well as a solid understanding of REST and GraphQL APIs.
 
-I have a passion for writing clean, well-tested reusable code. I love contributing to open source code when possible and the opportunities to collaborate with other developers. Having previous startup experience I have always been a jack-of-all-trades.
+My experience with NodeJS and MongoDB, combined with my knowledge of AWS Lambda, make me well-rounded and capable of delivering projects with a wide range of requirements. I am a Tailwind CSS advocate, but I also have experience with Sass and other CSS frameworks. I have also been developing with SvelteKit, for the last 2 years in my free time and I am currently learning TypeScript to continue expanding my skills.
+
+I am driven by a passion for learning and writing clean, maintainable code. I believe that code is not just about functionality, but also about creating an experience for developers. My experience as a manager and dev lead has given me the skills to lead and motivate teams, as well as to work effectively in a hands-on and collaborative environment.
 
 <h3>I like to build with</h3>
 <p>
